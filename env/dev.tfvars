@@ -1,1 +1,1 @@
-server_count = 1
+server_count = 2
